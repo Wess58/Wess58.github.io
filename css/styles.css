@@ -1,0 +1,48 @@
+.bckgrnd {
+  background-color: silver;
+}
+h1{
+  font-size: 10px;
+  text-align: left;
+  font-style: normal;
+  font-family: fantasy;
+}
+img {
+float:left;
+border-radius: 100%;
+width: 350px;
+height:450px;
+}
+h2{
+  font-family: monospace;
+  font-size: 50px;
+  font-weight: 400;
+}
+.sidebar{
+  font-size: 75px;
+  font-family: sans-serif;
+  color:white;
+  width:99%;
+  float:left;
+  background-color:#273746 ;
+  padding: left;
+  padding: 0.05em;
+  margin:0.05em;
+
+}
+.sidebar2{
+  font-size: 30px;
+  font-style: normal ;
+  font-family: Times ;
+  width:99%;
+  float:left;
+  background-color: grey;
+  padding:left;
+  padding: 0.05em;
+  margin:0.05em;
+}
+#font {
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+}
