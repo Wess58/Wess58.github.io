@@ -12,6 +12,9 @@ float:left;
 border-radius: 100%;
 width: 350px;
 height:450px;
+padding-right: 0.5em;
+margin-right: 5em;
+margin-top: 1em;
 }
 h2{
   font-family: monospace;
@@ -27,12 +30,11 @@ h2{
   background-color:#273746 ;
   padding: left;
   padding: 0.05em;
-  margin:0.05em;
+  margin:0.09em;
 
 }
 .sidebar2{
   font-size: 30px;
-  font-style: normal ;
   font-family: Times ;
   width:99%;
   float:left;
@@ -42,17 +44,23 @@ h2{
   margin:0.05em;
 }
 #font {
-  font-size: 30px;
+  font-size: 25px;
   font-family: sans-serif;
-  font-weight: 500;
+  column-count: 2;
+  column-gap: 50px;
+  column-rule-style: outset;
+  column-width: 50px;
+  column-fill: balance;
+
 }
 .right{
+  float:right;
+  width: 15%;
+  border-style: outset;
+  background-color:#273746 ;
   text-align: right;
-  border-style: dotted;
-  padding: 2em;
-  margin: 1em;
   font-style: normal;
-  height: 70px;
-  width: 300px;
-  background-color: white;
+  padding:0.1em;
+  margin: 2em;
+  margin-top: 10em;
 }
