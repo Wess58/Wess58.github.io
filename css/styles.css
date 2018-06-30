@@ -7,9 +7,9 @@ h1{
   font-style: normal;
   font-family: fantasy;
 }
-img {
+.important{
 float:left;
-border-radius: 100%;
+border-radius: 45%;
 width: 350px;
 height:450px;
 padding-right: 0.5em;
@@ -20,6 +20,13 @@ h2{
   font-family: monospace;
   font-size: 50px;
   font-weight: 400;
+  margin-top: 4.5em;
+  margin-bottom: 0.05em;
+}
+.emoji{
+  border-radius: 50%;
+  width:50px;
+  height:50px;
 }
 .sidebar{
   font-size: 75px;
@@ -45,13 +52,18 @@ h2{
 }
 #font {
   font-size: 25px;
-  font-family: sans-serif;
+  font-family: helvetica;
   column-count: 2;
   column-gap: 50px;
   column-rule-style: outset;
   column-width: 50px;
   column-fill: balance;
 
+}
+.unimportant{
+  font-size: 25px;
+  font-family: helvetica;
+  column-count: 1;
 }
 .right{
   float:right;
