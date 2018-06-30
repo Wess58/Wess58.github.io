@@ -52,7 +52,6 @@ h2{
 }
 #font {
   font-size: 25px;
-  font-family: helvetica;
   column-count: 2;
   column-gap: 50px;
   column-rule-style: outset;
@@ -61,10 +60,10 @@ h2{
 
 }
 .unimportant{
-  font-size: 25px;
-  font-family: helvetica;
+  font-size: 20px;
   column-count: 1;
-  padding-left: 5em;
+  margin-top: -1.5em;
+
 }
 .right{
   float:right;
