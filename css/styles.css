@@ -6,6 +6,7 @@ h1{
   text-align: left;
   font-style: normal;
   font-family: fantasy;
+  
 }
 .important{
 float:left;
@@ -15,18 +16,21 @@ height:450px;
 padding-right: 0.5em;
 margin-right: 5em;
 margin-top: 1em;
+
 }
 h2{
   font-family: monospace;
   font-size: 50px;
   font-weight: 400;
   margin-top: 4.5em;
-  margin-bottom: 0.05em;
+  margin-bottom: 0.5em;
+
 }
 .emoji{
   border-radius: 50%;
   width:50px;
   height:50px;
+
 }
 .sidebar{
   font-size: 75px;
@@ -49,25 +53,26 @@ h2{
   padding:left;
   padding: 0.05em;
   margin:0.05em;
+
 }
 #font {
   font-size: 25px;
   column-count: 2;
   column-gap: 50px;
-  column-rule-style: outset;
   column-width: 50px;
   column-fill: balance;
 
 }
 .unimportant{
-  font-size: 20px;
+  font-size: 23px;
   column-count: 1;
   margin-top: -1.5em;
 
 }
 .right{
+  font-size: 20px;
   float:right;
-  width: 15%;
+  width: 20%;
   border-style: outset;
   background-color:#273746 ;
   text-align: right;
@@ -75,4 +80,26 @@ h2{
   padding:0.1em;
   margin: 2em;
   margin-top: 10em;
+
+}
+.gif1{
+  float: left;
+  width: 100px;
+  height: 100px;
+  padding: 5em;
+
+}
+.gif2{
+  float: left;
+  width: 100px;
+  height: 100px;
+  padding: 5em;
+
+}
+.gif3{
+  float: left;
+  width: 100px;
+  height: 100px;
+  padding: 5em;
+
 }
