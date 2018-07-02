@@ -73,13 +73,13 @@ h2{
 .right{
   font-size: 20px;
   float:right;
-  width: 16%;
+  width: 20%;
   border-style: outset;
   background-color:#273746 ;
   text-align: right;
   font-style: normal;
   padding:0.1em;
-  padding-right: 2em;
+  padding-right: 3em;
   margin: 2em;
   margin-top: 0em;
 
