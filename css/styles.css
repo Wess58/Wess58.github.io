@@ -1,6 +1,7 @@
 .bckgrnd {
   background-color: silver;
 }
+
 h1{
   font-size: 10px;
   text-align: left;
@@ -97,6 +98,7 @@ h2{
   margin-bottom: 0em;
   padding: 2em;
   padding-top: 0em;
+  cursor: pointer; 
 
 }
 h3{
